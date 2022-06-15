@@ -24,6 +24,7 @@ namespace Interfaces
             Vehicle vehicle = new Vehicle(model);
             CarRental carRental = new CarRental(start, finish, vehicle);
 
+            //Instancia o servico no terceiro argumento do construtor da classe RentalService
             RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
             rentalService.ProcessInvoice(carRental);
 
