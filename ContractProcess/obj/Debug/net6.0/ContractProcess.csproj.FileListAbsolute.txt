@@ -1,0 +1,15 @@
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.csproj.AssemblyReference.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.AssemblyInfoInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.AssemblyInfo.cs
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\bin\Debug\net6.0\ContractProcess.exe
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\bin\Debug\net6.0\ContractProcess.deps.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\bin\Debug\net6.0\ContractProcess.runtimeconfig.json
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\bin\Debug\net6.0\ContractProcess.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\bin\Debug\net6.0\ContractProcess.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\refint\ContractProcess.dll
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.pdb
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ContractProcess.genruntimeconfig.cache
+C:\Users\joao.santos\source\repos\CURSO DOTNET\Interfaces\ContractProcess\obj\Debug\net6.0\ref\ContractProcess.dll
